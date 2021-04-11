@@ -1,0 +1,3 @@
+67;Subaru;BRZ;osobní;9,4;True;
+999;Audi;A8;osobni;8,4;True;
+672;Tatra;T3;Nákladní;17,4;True;
