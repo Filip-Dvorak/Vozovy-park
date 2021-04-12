@@ -1,3 +1,0 @@
-admin;Honza;Administrator;1156371652;12. 4. 2021 16:02:26;True;True;False;
-user;Bob;Ross;1209157742;12. 4. 2021 16:01:06;False;True;False;
-user2;Tom;Scott;1210337390;10. 4. 2021 20:25:04;False;True;False;
