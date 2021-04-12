@@ -2,6 +2,8 @@
 
 <h2>V tabulce uživateů jsou již 2 uživatelé a 1 administrátor:</h2>
 
+___________________________________________________________________
+
 Administrátor:
               username: admin
               heslo   : admin
@@ -19,6 +21,8 @@ Uživatel2:
               heslo   : heslo2
               Jméno   : Tom
               Příjmení: Scott
+              
+___________________________________________________________________
               
               
 <i>Když jsou tabulky prázdné spustí se inicializace vytvoření adminského účtu</i>
