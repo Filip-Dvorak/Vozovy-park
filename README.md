@@ -4,23 +4,11 @@
 
 ___________________________________________________________________
 
-Administrátor:
-              username: admin
-              heslo   : admin
-              Jméno   : Honza
-              Příjmení: Administrátor
-
-Uživatel1:
-              username: user
-              heslo   : heslo
-              Jméno   : Bob
-              Příjmení: Ross
-
-Uživatel2:
-              username: user2
-              heslo   : heslo2
-              Jméno   : Tom
-              Příjmení: Scott
+|   | Uživatelské jméno  | Heslo  | Jméno  | Příjmení  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| administrátor:  | admin  | admin  | Honza  | Administrátor  |
+| uživatel1  | user  | heslo  | Bob  | Ross  |
+| uživatel2  | user2  | heslo2  |  Tom | Scott  |
               
 ___________________________________________________________________
 
